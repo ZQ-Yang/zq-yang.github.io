@@ -28,24 +28,26 @@ My research interests include travel behavior analysis and modeling, the relatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society</div><img src='images/车1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/车1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
+
+- *Sustainable Cities and Society* 
 
 **Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Transportation Science and Technology</div><img src='images/study region1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/study region1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Factoring in temporal variations of public transit-based healthcare accessibility and equity](https://www.sciencedirect.com/science/article/pii/S2046043024000017)
 
 **Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
 Xinghua Li, **Ziqi Yang**, Yuntao Guo, Wei Xu, Xinwu Qian
-
+- *International Journal of Transportation Science and Technology* 
 </div>
 </div>
 
