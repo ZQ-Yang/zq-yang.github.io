@@ -105,59 +105,57 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 None
 
 
+
+
+
 <!-- 引入 Leaflet -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-<!-- 地图容器 -->
-
 # 🌎 Countries
-<div id="map" style="height: 400px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
+<div id="world-map" style="height: 400px; border-radius: 10px; margin-bottom: 30px;"></div>
 
 <script>
-// 初始化地图
-var map = L.map('map').setView([30, 10], 2);
+// 创建地图对象
+var map = L.map('world-map').setView([20, 0], 2);
 
-// 加载底图
+// 加载地图底图
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 我去过的国家（用ISO Alpha-3国家代码）
-var visitedCountries = ['CHN', 'BEL'];
+// 你去过的国家（ISO Alpha-3代码）
+var visited = ['CHN', 'BEL'];
 
-// 加载世界国家边界（最新标准版GeoJSON）
+// 加载世界国家边界数据
 fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(data) {
+  .then(res => res.json())
+  .then(data => {
     L.geoJSON(data, {
       style: function(feature) {
-        var countryCode = feature.properties.ISO_A3; // 注意这里大小写ISO_A3
-        if (visitedCountries.includes(countryCode)) {
+        var countryCode = feature.properties.ISO_A3; // 读取国家ISO代码
+        if (visited.includes(countryCode)) {
           return {
-            color: "#0066FF",      // 边框蓝色
+            color: "#3388ff",       // 边框颜色（蓝色）
             weight: 1,
-            fillColor: "#66B2FF",   // 填充浅蓝色
+            fillColor: "#3388ff",   // 填充颜色（蓝色）
             fillOpacity: 0.6
           };
         } else {
           return {
-            color: "#888888",      // 边框灰色
+            color: "#999999",        // 灰色边框
             weight: 0.5,
-            fillColor: "#DDDDDD",   // 填充浅灰色
+            fillColor: "#dddddd",     // 浅灰色填充
             fillOpacity: 0.3
           };
         }
       },
-      onEachFeature: function(feature, layer) {
-        layer.bindPopup(feature.properties.ADMIN); // 显示国家名字
+      onEachFeature: function (feature, layer) {
+        layer.bindPopup(feature.properties.ADMIN); // 点击弹出国家名字
       }
     }).addTo(map);
   });
 </script>
-
 
 
 
