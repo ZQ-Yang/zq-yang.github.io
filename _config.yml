@@ -161,3 +161,48 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+<!-- 引入 Leaflet -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- 地图容器 -->
+<h2>🌎 Countries I Have Visited</h2>
+<div id="map" style="height: 600px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
+
+<script>
+// 初始化地图
+var map = L.map('map').setView([20, 0], 2);
+
+// 加载地图底图
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap contributors'
+}).addTo(map);
+
+// 定义你去过的国家（用ISO Alpha-3国家代码）
+var visitedCountries = ['CHN', 'BEL']; // CHN = China, BEL = Belgium
+
+// 加载世界国家边界（GeoJSON）
+fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(data) {
+    L.geoJSON(data, {
+      style: function(feature) {
+        if (visitedCountries.includes(feature.properties.id)) {
+          // 去过的国家，涂成蓝色
+          return { color: "#3388ff", weight: 1, fillOpacity: 0.7 };
+        } else {
+          // 没去过的国家，浅灰色
+          return { color: "#cccccc", weight: 1, fillOpacity: 0.2 };
+        }
+      },
+      onEachFeature: function(feature, layer) {
+        layer.bindPopup(feature.properties.name);
+      }
+    }).addTo(map);
+  });
+</script>
+
