@@ -35,9 +35,21 @@ My research interests include travel behavior analysis and modeling, the relatio
 
 **Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Transportation Science and Technology</div><img src='images/study region1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Factoring in temporal variations of public transit-based healthcare accessibility and equity](https://www.sciencedirect.com/science/article/pii/S2046043024000017)
+
+**Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
+Xinghua Li, **Ziqi Yang**, Yuntao Guo, Wei Xu, Xinwu Qian
 
 </div>
 </div>
+
+
 
 - Xinghua Li, **Ziqi Yang**, Yuntao Guo, Zhenghan Zhang, Lu Teng, and Yue Wang, Examining spatial variations in built environment impact on the bike-sharing usage among older adults. Transportation Research Board Annual Meeting 2024.
 - **Ziqi Yang**, Xinghua Li, Yuntao Guo, Xinwu Qian, and Wei Wang, Impacts of property walking accessibility on second-hand property price and rent: Evidence from Shanghai, China. Transportation Research Board Annual Meeting 2022.
