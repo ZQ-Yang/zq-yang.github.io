@@ -103,3 +103,34 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 
 # 💻 Internships
 - None
+
+
+# 💻 Places
+<!-- 在<head>里引入 Leaflet.js 的CSS和JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- 地图容器 -->
+<h2>🌎 Places I Have Been</h2>
+<div id="map" style="height: 500px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
+
+<script>
+// 初始化地图
+var map = L.map('map').setView([30, 0], 2); // 初始中心位置（纬度30，经度0），缩放级别2
+
+// 加入地图底图（使用OpenStreetMap）
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+}).addTo(map);
+
+// 添加标记（你去过的地方）
+L.marker([31.2304, 121.4737]).addTo(map) // 上海
+    .bindPopup('<b>Shanghai, China</b><br>Ph.D. study at Tongji University');
+
+L.marker([51.0543, 3.7174]).addTo(map) // 根特
+    .bindPopup('<b>Ghent, Belgium</b><br>Visiting Student at Ghent University');
+
+L.marker([30.5728, 104.0668]).addTo(map) // 成都
+    .bindPopup('<b>Chengdu, China</b><br>Bachelor study at Southwest Jiaotong University');
+</script>
+
