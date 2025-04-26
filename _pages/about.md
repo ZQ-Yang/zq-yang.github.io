@@ -39,7 +39,9 @@ My research interests include travel behavior analysis and modeling, the relatio
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Xinghua Li, **Ziqi Yang**, Yuntao Guo, Zhenghan Zhang, Lu Teng, and Yue Wang, Examining spatial variations in built environment impact on the bike-sharing usage among older adults. Transportation Research Board Annual Meeting 2024.
+- **Ziqi Yang**, Xinghua Li, Yuntao Guo, Xinwu Qian, and Wei Wang, Impacts of property walking accessibility on second-hand property price and rent: Evidence from Shanghai, China. Transportation Research Board Annual Meeting 2022.
+
 
 # 🎖 Honors and Awards
 - *2024.11* Jingchuan Scholarship 京川奖学金
