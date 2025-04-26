@@ -107,8 +107,8 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <!-- 地图容器 -->
-<h2>🌎 Countries I Have Visited</h2>
-<div id="map" style="height: 600px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
+<h2>🌎 Countries</h2>
+<div id="map" style="height: 300px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
 
 <script>
 // 初始化地图
