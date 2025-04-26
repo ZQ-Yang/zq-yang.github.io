@@ -106,60 +106,26 @@ None
 
 
 
-
-<!-- 引入 Leaflet -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-<!-- 引入 Leaflet Country Layers -->
-<script src="https://unpkg.com/leaflet-countrylayers/dist/leaflet-countrylayers.min.js"></script>
-
 # 🌎 Countries
 
-<div id="world-map" style="height: 400px; margin-bottom: 30px; border-radius: 10px;"></div>
 
-<script>
-// 初始化地图
-var map = L.map('world-map').setView([20, 0], 2);
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1001" style="width: 100%; max-width: 800px;">
+  <rect width="100%" height="100%" fill="#eeeeee" />
 
-// 加载OpenStreetMap底图
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap contributors'
-}).addTo(map);
+  <!-- 其他国家背景（统一灰色） -->
+  <path d="M0,0 L2000,0 L2000,1000 L0,1000 Z" fill="#dddddd" />
 
-// 创建国家图层
-var countries = new L.CountryLayers({
-  defaultStyle: {
-    color: '#999999',
-    weight: 0.5,
-    fillColor: '#dddddd',
-    fillOpacity: 0.2
-  },
-  highlightStyle: {
-    color: '#3388ff',
-    weight: 1,
-    fillColor: '#66B2FF',
-    fillOpacity: 0.7
-  }
-}).addTo(map);
+  <!-- 高亮中国（大致示意，真实地图更复杂） -->
+  <circle cx="1500" cy="400" r="20" fill="#3388ff">
+    <title>China</title>
+  </circle>
 
-// 你去过的国家ISO3代码
-var visitedCountries = ['CHN', 'BEL'];
+  <!-- 高亮比利时（大致示意） -->
+  <circle cx="950" cy="300" r="10" fill="#3388ff">
+    <title>Belgium</title>
+  </circle>
+</svg>
 
-// 遍历国家，高亮你去过的
-countries.eachLayer(function(layer) {
-  var iso_a3 = layer.feature.properties.ISO_A3;
-  if (visitedCountries.includes(iso_a3)) {
-    layer.setStyle({
-      color: '#3388ff',
-      weight: 1,
-      fillColor: '#3388ff',
-      fillOpacity: 0.7
-    });
-    layer.bindPopup(layer.feature.properties.ADMIN); // 点击弹出国家名
-  }
-});
-</script>
 
 
 
