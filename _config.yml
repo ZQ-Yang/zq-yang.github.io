@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ziqi Yang(杨子奇)"
+title                    : "Ziqi Yang"
 description              : "Ph.D. Candidate in Urban mobility"
 repository               : "ZQ-Yang/zq-yang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziqi Yang"
+  name             : "Ziqi Yang(杨子奇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tongji University/Ghent University"
   location         : "Shanghai, China"
