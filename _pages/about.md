@@ -26,6 +26,7 @@ I am currently a visiting PhD student at Ghent University.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I was awarded the Silver Award at the **[2024 THNS Forum](https://thns.tongji.edu.cn/2024Awards/list.htm)**.
+- *2024.10*: &nbsp;🎉🎉 Two papers are accepted by *TRB2025*
 - *2024.07*: &nbsp;🎉🎉 I received funding support from the **China Scholarship Council (CSC)**.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by *Sustainable Cities and Society*
 
@@ -78,8 +79,11 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 
 
 
-- Xinghua Li, **Ziqi Yang**, Yuntao Guo, Zhenghan Zhang, Lu Teng, and Yue Wang, Examining spatial variations in built environment impact on the bike-sharing usage among older adults. Transportation Research Board Annual Meeting 2024.
-- **Ziqi Yang**, Xinghua Li, Yuntao Guo, Xinwu Qian, and Wei Wang, Impacts of property walking accessibility on second-hand property price and rent: Evidence from Shanghai, China. Transportation Research Board Annual Meeting 2022.
+- Xinghua Li, **Ziqi Yang**, Yuntao Guo, Zhenghan Zhang, Lu Teng, Yue Wang, Examining spatial variations in built environment impact on the bike-sharing usage among older adults. *TRB2025*.
+- Maozheng Zhou, Yuntao Guo, **Ziqi Yang**, Lu Teng, Xinghua Li, Analyzing accessibility disparities in shared bike usage across gender and age subgroups: Implications for equity from large-scale trip data. *TRB2025*.
+- **Ziqi Yang**, Xinghua Li, Yuntao Guo, Xinwu Qian, Wei Wang, Impacts of property walking accessibility on second-hand property price and rent: Evidence from Shanghai, China. *TRB2022*.
+
+
 
 
 # 🎖 Honors and Awards
