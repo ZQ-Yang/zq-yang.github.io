@@ -85,13 +85,10 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 - *2023.07* Green Seedling Fund 绿苗计划
 
 # 📖 Educations
-- *2024.09 - now*, Visiting Student, Ghent University, Ghent, Belgium  
-  
-  
-- *2020.09 - now*, Ph.D. Candidate, Tongji University, Shanghai, China
+- *2024.09 – present*, Visiting Student, **Ghent University**, Ghent, Belgium
+- *2020.09 – present*, Ph.D. Candidate, **Tongji University**, Shanghai, China
+- *2016.09 – 2020.06*, Bachelor of Engineering, **Southwest Jiaotong University**, Chengdu, China
 
-  
-- *2016.09 - 2020.06*, bachelor, Southwest Jiaotong University, Chengdu, China
 
 # 💬 Invited Talks
 - *2025.03*, City+Talk series 4, Online. 
