@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the Urban Mobility Institute, Tongji University, Shanghai, China. I received my bachelor's degree from Southwest Jiaotong University in 2020.
+I am a Ph.D. candidate at the Urban Mobility Institute, Tongji University, Shanghai, China. I received my bachelor's degree from Southwest Jiaotong University in 2020.
 
 My research interests include travel behavior analysis and modeling, the relationship between travel and land use, shared micromobility, and transport equity.
+
+I am currently a visiting PhD student at Ghent University.
 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I was awarded the Silver Award at the **[2024 THNS Forum](https://thns.tongji.edu.cn/2024Awards/list.htm)**.
 - *2024.07*: &nbsp;🎉🎉 I received funding support from the **China Scholarship Council (CSC)**.
+- *2024.07*: &nbsp;🎉🎉 One papers are accepted by *Sustainable Cities and Society*
 
 # 📝 Publications 
 
@@ -52,7 +55,7 @@ Xinghua Li, **Ziqi Yang**, Yuntao Guo, Wei Xu, Xinwu Qian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Investigating the Impacts of Property Walking Accessibility on Housing Affordability and Equity: Evidence from Shanghai, China](https://ascelibrary.org/doi/abs/10.1061/JUPDDM.UPENG-4197)
+[Investigating the impacts of property walking accessibility on housing affordability and equity: Evidence from Shanghai, China](https://ascelibrary.org/doi/abs/10.1061/JUPDDM.UPENG-4197)
 
 Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 - *Journal of Urban Planning and Development* 
