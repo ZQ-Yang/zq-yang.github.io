@@ -101,6 +101,9 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 - *2025.03*, City+Talk series 4, Online. 
 - *2024.10*, 2024 THNS Forum, Paris, French.
 
+# 💻 Internships
+None
+
 
 <!-- 引入 Leaflet -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -108,7 +111,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 
 <!-- 地图容器 -->
 
-# 💬 Countries
+# 🌎 Countries
 <div id="map" style="height: 400px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
 
 <script>
