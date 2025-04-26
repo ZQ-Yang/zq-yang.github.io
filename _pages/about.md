@@ -106,28 +106,6 @@ None
 
 
 
-# 🌎 Countries
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1001" style="width: 100%; max-width: 800px;">
-  <rect width="100%" height="100%" fill="#eeeeee" />
-
-  <!-- 其他国家背景（统一灰色） -->
-  <path d="M0,0 L2000,0 L2000,1000 L0,1000 Z" fill="#dddddd" />
-
-  <!-- 高亮中国（大致示意，真实地图更复杂） -->
-  <circle cx="1500" cy="400" r="20" fill="#3388ff">
-    <title>China</title>
-  </circle>
-
-  <!-- 高亮比利时（大致示意） -->
-  <circle cx="950" cy="300" r="10" fill="#3388ff">
-    <title>Belgium</title>
-  </circle>
-</svg>
-
-
-
 
 
 
