@@ -60,7 +60,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/wsocial.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/Coefficient distribution.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding active transportation accessibility's impacts on polycentric and monocentric cities' housing price](https://www.sciencedirect.com/science/article/pii/S0739885923000227)
