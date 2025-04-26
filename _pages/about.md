@@ -107,54 +107,58 @@ None
 
 
 
-
 <!-- 引入 Leaflet -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
+<!-- 引入 Leaflet Country Layers -->
+<script src="https://unpkg.com/leaflet-countrylayers/dist/leaflet-countrylayers.min.js"></script>
+
 # 🌎 Countries
-<div id="world-map" style="height: 400px; border-radius: 10px; margin-bottom: 30px;"></div>
+
+<div id="world-map" style="height: 400px; margin-bottom: 30px; border-radius: 10px;"></div>
 
 <script>
-// 创建地图对象
+// 初始化地图
 var map = L.map('world-map').setView([20, 0], 2);
 
-// 加载地图底图
+// 加载OpenStreetMap底图
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 你去过的国家（ISO Alpha-3代码）
-var visited = ['CHN', 'BEL'];
+// 创建国家图层
+var countries = new L.CountryLayers({
+  defaultStyle: {
+    color: '#999999',
+    weight: 0.5,
+    fillColor: '#dddddd',
+    fillOpacity: 0.2
+  },
+  highlightStyle: {
+    color: '#3388ff',
+    weight: 1,
+    fillColor: '#66B2FF',
+    fillOpacity: 0.7
+  }
+}).addTo(map);
 
-// 加载世界国家边界数据
-fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
-  .then(res => res.json())
-  .then(data => {
-    L.geoJSON(data, {
-      style: function(feature) {
-        var countryCode = feature.properties.ISO_A3; // 读取国家ISO代码
-        if (visited.includes(countryCode)) {
-          return {
-            color: "#3388ff",       // 边框颜色（蓝色）
-            weight: 1,
-            fillColor: "#3388ff",   // 填充颜色（蓝色）
-            fillOpacity: 0.6
-          };
-        } else {
-          return {
-            color: "#999999",        // 灰色边框
-            weight: 0.5,
-            fillColor: "#dddddd",     // 浅灰色填充
-            fillOpacity: 0.3
-          };
-        }
-      },
-      onEachFeature: function (feature, layer) {
-        layer.bindPopup(feature.properties.ADMIN); // 点击弹出国家名字
-      }
-    }).addTo(map);
-  });
+// 你去过的国家ISO3代码
+var visitedCountries = ['CHN', 'BEL'];
+
+// 遍历国家，高亮你去过的
+countries.eachLayer(function(layer) {
+  var iso_a3 = layer.feature.properties.ISO_A3;
+  if (visitedCountries.includes(iso_a3)) {
+    layer.setStyle({
+      color: '#3388ff',
+      weight: 1,
+      fillColor: '#3388ff',
+      fillOpacity: 0.7
+    });
+    layer.bindPopup(layer.feature.properties.ADMIN); // 点击弹出国家名
+  }
+});
 </script>
 
 
