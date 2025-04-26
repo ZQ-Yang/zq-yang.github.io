@@ -107,43 +107,54 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <!-- 地图容器 -->
-<h2>🌎 Countries</h2>
-<div id="map" style="height: 300px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
+
+# 💬 Countries
+<div id="map" style="height: 400px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;"></div>
 
 <script>
 // 初始化地图
-var map = L.map('map').setView([20, 0], 2);
+var map = L.map('map').setView([30, 10], 2);
 
-// 加载地图底图
+// 加载底图
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 定义你去过的国家（用ISO Alpha-3国家代码）
-var visitedCountries = ['CHN', 'BEL']; // CHN = China, BEL = Belgium
+// 我去过的国家（用ISO Alpha-3国家代码）
+var visitedCountries = ['CHN', 'BEL'];
 
-// 加载世界国家边界（GeoJSON）
-fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
+// 加载世界国家边界（最新标准版GeoJSON）
+fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
   .then(function(response) {
     return response.json();
   })
   .then(function(data) {
     L.geoJSON(data, {
       style: function(feature) {
-        if (visitedCountries.includes(feature.properties.id)) {
-          // 去过的国家，涂成蓝色
-          return { color: "#3388ff", weight: 1, fillOpacity: 0.7 };
+        var countryCode = feature.properties.ISO_A3; // 注意这里大小写ISO_A3
+        if (visitedCountries.includes(countryCode)) {
+          return {
+            color: "#0066FF",      // 边框蓝色
+            weight: 1,
+            fillColor: "#66B2FF",   // 填充浅蓝色
+            fillOpacity: 0.6
+          };
         } else {
-          // 没去过的国家，浅灰色
-          return { color: "#cccccc", weight: 1, fillOpacity: 0.2 };
+          return {
+            color: "#888888",      // 边框灰色
+            weight: 0.5,
+            fillColor: "#DDDDDD",   // 填充浅灰色
+            fillOpacity: 0.3
+          };
         }
       },
       onEachFeature: function(feature, layer) {
-        layer.bindPopup(feature.properties.name);
+        layer.bindPopup(feature.properties.ADMIN); // 显示国家名字
       }
     }).addTo(map);
   });
 </script>
+
 
 
 
