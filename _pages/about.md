@@ -33,14 +33,13 @@ My research interests include travel behavior analysis and modeling, the relatio
 
 [Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
 
-- *Sustainable Cities and Society* 
 
 **Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
-
+- *Sustainable Cities and Society* 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/study region1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Factoring in temporal variations of public transit-based healthcare accessibility and equity](https://www.sciencedirect.com/science/article/pii/S2046043024000017)
@@ -86,10 +85,10 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 - *2023.07* Green Seedling Fund 绿苗计划
 
 # 📖 Educations
-- *2024.09 - now*, Visiting Student, **Ghent University**, Ghent, Belgium  
+- *2024.09 - now*, Visiting Student, Ghent University, Ghent, Belgium  
   
   
-- *2020.09 - now*, Ph.D. Candidate, **Tongji University**, Shanghai, China
+- *2020.09 - now*, Ph.D. Candidate, Tongji University, Shanghai, China
 
   
 - *2016.09 - 2020.06*, bachelor, Southwest Jiaotong University, Chengdu, China
