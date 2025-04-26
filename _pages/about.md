@@ -52,6 +52,7 @@ My research interests include travel behavior analysis and modeling, the relatio
   Supervisor: Prof. Frank Witlox  
   
 - *2020.09 - now*, Ph.D. Candidate, **Tongji University**, Shanghai, China
+  Supervisor: Prof. Frank Witlox  
   Supervisor: Prof. Xinghua Li
   
 - *2016.09 - 2020.06*, bachelor, Southwest Jiaotong University, Chengdu, China
