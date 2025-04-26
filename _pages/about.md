@@ -100,6 +100,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 # 💬 Invited Talks
 - *2025.03*, City+Talk series 4, Online. 
 - *2024.10*, 2024 THNS Forum, Paris, French.
+- *2021.07*, Chinese Society Annual Meeting 2021, Chongqing, China.
 
 # 💻 Internships
 None
