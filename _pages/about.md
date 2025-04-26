@@ -27,7 +27,7 @@ I am currently a visiting PhD student at Ghent University.
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I was awarded the Silver Award at the **[2024 THNS Forum](https://thns.tongji.edu.cn/2024Awards/list.htm)**.
 - *2024.07*: &nbsp;🎉🎉 I received funding support from the **China Scholarship Council (CSC)**.
-- *2024.07*: &nbsp;🎉🎉 One papers are accepted by *Sustainable Cities and Society*
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by *Sustainable Cities and Society*
 
 # 📝 Publications 
 
