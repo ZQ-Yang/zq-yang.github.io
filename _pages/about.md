@@ -23,8 +23,8 @@ My research interests include travel behavior analysis and modeling, the relatio
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 City plus. 
-- *2024.10*: &nbsp;🎉🎉 French. 
+- *2024.11*: &nbsp;🎉🎉 I was awarded the Silver Award at the **2024 THNS Forum**. https://thns.tongji.edu.cn/2024Awards/list.htm. 
+- *2024.07*: &nbsp;🎉🎉 I received funding support from the **China Scholarship Council (CSC)**.. 
 
 # 📝 Publications 
 
@@ -43,14 +43,17 @@ My research interests include travel behavior analysis and modeling, the relatio
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.11* 京川
-- *2024.07* csc. 
-- *2023.07* 绿苗. 
+- *2024.11* Jingchuan Scholarship 京川奖学金
+- *2024.07* China Scholarship Council Scholarship
+- *2023.07* Green Seedling Fund 绿苗计划. 
 
 # 📖 Educations
-- *2024.09 - now*, Ghent 
-- *2020.09 - now*, Tongji 
-- *2016.09 - 2020.06*, Southwest Jiaotong University. 
+- *2024.09 - now*, Visiting Student, **Ghent University**, Ghent, Belgium  
+  Supervisor: Prof. Frank Witlox  
+  
+- *2020.09 - now*, Ph.D. Candidate, **Tongji University**, Shanghai, China
+  Supervisor: Prof. Xinghua Li 
+- *2016.09 - 2020.06*, bachelor, Southwest Jiaotong University, Chengdu, China
 
 # 💬 Invited Talks
 - *2025.03*, City plus. 
