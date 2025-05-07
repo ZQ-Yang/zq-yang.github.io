@@ -31,6 +31,13 @@ I am currently a visiting PhD student at Ghent University.
 - *2024.07*: &nbsp;🎉🎉 I receive funding support from the China Scholarship Council (CSC).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by *Sustainable Cities and Society*.
 
+# 🔬 Research Interests
+- Service Accessibility and housing price
+- Healthcare accessibility and equity
+- Micromobility (Bike-sharing & Electric Bike-sharing)
+
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/车1.jpg' alt="sym" width="100%"></div></div>
