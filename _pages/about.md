@@ -30,9 +30,9 @@ I am currently a visiting PhD student at Ghent University.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by *Sustainable Cities and Society*.
 
 # 🔬 Research Interests
-- Service Accessibility and housing price
-- Healthcare accessibility and equity
-- Micromobility (Bike-sharing & Electric Bike-sharing)
+- Service Accessibility and Housing Price
+- Healthcare Accessibility and Equity
+- Micromobility (Bike-sharing and Electric Bike-sharing)
 
 
 
