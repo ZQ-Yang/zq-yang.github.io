@@ -17,10 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https://umi.tongji.edu.cn/), Tongji University, Shanghai, China. I am a member of the [CTIT](https://ctit.tongji.edu.cn/) research group, where I am supervised by Professor Xinghua Li. Prior to this, I received my bachelor's degree from Southwest Jiaotong University in 2020.
+I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https://umi.tongji.edu.cn/), Tongji University, Shanghai, China. I am a member of the [CTIT](https://ctit.tongji.edu.cn/) research group, completing my dissertation on **"Investigating Influencing Factors and Developing Incentive Strategies for the Integrated Usage of Electric Bike-sharing Services and Metro Systems"** under the guidance of Professor Xinghua Li. Prior to this, I received my bachelor's degree from Southwest Jiaotong University in 2020.
 
-
-My research interests include travel behavior analysis and modeling, the relationship between travel and land use, shared mobility, and transport equity.
 
 I am currently a visiting PhD student at Ghent University.
 
