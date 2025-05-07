@@ -108,9 +108,6 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 - *2024.10*, 2024 THNS Forum, Paris, French.
 
 
-# 💻 Internships
-None
-
 
 
 
