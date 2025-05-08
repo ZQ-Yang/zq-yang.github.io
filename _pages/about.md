@@ -32,7 +32,7 @@ I am currently a visiting PhD student at Ghent University.
 # 🔬 Research Interests
 - Service Accessibility and Housing Price
 - Healthcare Accessibility and Equity
-- Micromobility (Bike-sharing and Electric Bike-sharing)
+- Shared Micromobility (Bike-sharing and Electric Bike-sharing)
 
 
 
