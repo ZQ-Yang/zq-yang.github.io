@@ -38,20 +38,20 @@ I am currently a visiting PhD student at Ghent University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/车1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/framework_TRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
+[Comparing Built Environment Effects on Bike-Sharing and Electric Bike-Sharing Usage: A Spatiotemporal Machine Learning Approach](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
 
 
-Zhuyi Song, **Ziqi Yang**, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
+YiSong Zhu, **Ziqi Yang**, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
 
 
 - *Transportation Research Part A* 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/framework_TRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/车1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
