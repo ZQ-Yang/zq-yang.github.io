@@ -60,7 +60,7 @@ Yisong Zhu, **Ziqi Yang***, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianha
 [Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
 
 
-**Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
+**Ziqi Yang**, Yuntao Guo*, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
 - *Sustainable Cities and Society* 
 </div>
 </div>
@@ -70,7 +70,7 @@ Yisong Zhu, **Ziqi Yang***, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianha
 
 [Factoring in temporal variations of public transit-based healthcare accessibility and equity](https://www.sciencedirect.com/science/article/pii/S2046043024000017)
 
-Xinghua Li, **Ziqi Yang**, Yuntao Guo, Wei Xu, Xinwu Qian
+Xinghua Li, **Ziqi Yang**, Yuntao Guo*, Wei Xu, Xinwu Qian
 - *International Journal of Transportation Science and Technology* 
 </div>
 </div>
@@ -80,7 +80,7 @@ Xinghua Li, **Ziqi Yang**, Yuntao Guo, Wei Xu, Xinwu Qian
 
 [Investigating the impacts of property walking accessibility on housing affordability and equity: Evidence from Shanghai, China](https://ascelibrary.org/doi/abs/10.1061/JUPDDM.UPENG-4197)
 
-Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
+Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo*, Chao Yang
 - *Journal of Urban Planning and Development* 
 </div>
 </div>
@@ -92,7 +92,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo, Chao Yang
 [Understanding active transportation accessibility's impacts on polycentric and monocentric cities' housing price](https://www.sciencedirect.com/science/article/pii/S0739885923000227)
 
 
-**Ziqi Yang**, Xinghua Li, Yuntao Guo, Xinwu Qian
+**Ziqi Yang**, Xinghua Li, Yuntao Guo*, Xinwu Qian*
 - *Research in Transportation Economics* 
 </div>
 </div>
