@@ -92,7 +92,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo*, Chao Yang
 [Understanding active transportation accessibility's impacts on polycentric and monocentric cities' housing price](https://www.sciencedirect.com/science/article/pii/S0739885923000227)
 
 
-**Ziqi Yang**, Xinghua Li, Yuntao Guo*, Xinwu Qian*
+**Ziqi Yang**, Xinghua Li, Yuntao Guo*, Xinwu Qian
 - *Research in Transportation Economics* 
 </div>
 </div>
