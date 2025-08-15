@@ -44,6 +44,20 @@ I am currently a visiting PhD student at Ghent University.
 [Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
 
 
+Zhuyi Song, **Ziqi Yang**, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
+
+
+- *Transportation Research Part A* 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/framework_TRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Evaluating temporal variations in access to multi-tier hospitals using personal vehicles and public transit: Implications for healthcare equity](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
+
+
 **Ziqi Yang**, Yuntao Guo, Xi Feng, Yaocheng Zhou, Pengfei Zhou, Xinghua Li, Xinwu Qian
 - *Sustainable Cities and Society* 
 </div>
