@@ -29,6 +29,7 @@ I am currently a visiting PhD student at Ghent University.
 - *2024.10*: &nbsp;🎉🎉 Two papers are accepted by *TRB2025*.
 - *2024.07*: &nbsp;🎉🎉 I receive funding support from the China Scholarship Council (CSC).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by *Sustainable Cities and Society*.
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by *International Journal of Transportation Science and Technology*.
 
 # 🔬 Research Interests
 - Service Accessibility and Housing Price
