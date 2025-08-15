@@ -24,6 +24,7 @@ I am currently a visiting PhD student at Ghent University.
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Transportation Research Part A*.
 - *2024.11*: &nbsp;🎉🎉 I am awarded the Silver Award at the [2024 THNS Forum](https://thns.tongji.edu.cn/2024Awards/list.htm).
 - *2024.10*: &nbsp;🎉🎉 Two papers are accepted by *TRB2025*.
 - *2024.07*: &nbsp;🎉🎉 I receive funding support from the China Scholarship Council (CSC).
