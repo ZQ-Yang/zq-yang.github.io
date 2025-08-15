@@ -45,7 +45,7 @@ I am currently a visiting PhD student at Ghent University.
 [Comparing Built Environment Effects on Bike-Sharing and Electric Bike-Sharing Usage: A Spatiotemporal Machine Learning Approach](https://www.sciencedirect.com/science/article/pii/S2210670724005122)
 
 
-YiSong Zhu, **Ziqi Yang**, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
+Yisong Zhu, **Ziqi Yang**, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
 
 
 - *Transportation Research Part A* 
