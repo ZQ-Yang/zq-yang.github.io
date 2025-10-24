@@ -120,7 +120,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo*, Chao Yang
 
 
 # 💬 Invited Talks
-- *2025.10*, GISChat 22, Online. 
+- *2025.10*, GISChat series 22, Online. 
 - *2025.03*, City+Talk series 4, Online. 
 - *2024.10*, 2024 THNS Forum, Paris, French.
 
