@@ -32,9 +32,10 @@ I am currently a visiting PhD student at Ghent University.
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by *International Journal of Transportation Science and Technology*.
 
 # 🔬 Research Interests
-- Accessibility and Equity
-- Built environment and travel behavior
-- Shared Micromobility
+- Travel behavior analysis and modeling
+- Travel and land use
+- Accessibility and equity
+- Housing prices
 
 
 
