@@ -22,6 +22,7 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
 - *2025.12*: &nbsp;🎉🎉 Three of my co-authored papers have been accepted for publication in *Transportation Research Part D*, *Journal of Transport Geography*, and *European Transport Research Review*.
 - *2025.10*: &nbsp;🎉🎉 Five papers are accepted by *TRB2026*.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Transportation Research Part A*.
