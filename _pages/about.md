@@ -45,7 +45,7 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/tp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding bike-sharing usage and built environment influences across age groups: a spatial machine learning approach](https://www.sciencedirect.com/science/article/pii/S0965856425002708)
+[Understanding bike-sharing usage and built environment influences across age groups: a spatial machine learning approach](https://www.sciencedirect.com/science/article/pii/S0967070X26000892?via%3Dihub)
 
 
 **Ziqi Yang**, Yisong Zhu, Xinghua Li, Yuntao Guo*, Zhenghan Zhang, Lu Teng
