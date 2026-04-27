@@ -22,7 +22,8 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by *Travel Behaviour and Society*.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
 - *2025.12*: &nbsp;🎉🎉 Three of my co-authored papers have been accepted for publication in *Transportation Research Part D*, *Journal of Transport Geography*, and *European Transport Research Review*.
 - *2025.10*: &nbsp;🎉🎉 Five papers are accepted by *TRB2026*.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Transportation Research Part A*.
@@ -42,6 +43,21 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/TBS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nonlinear effects of built environment on integrated usage of electric bike-sharing and metro](https://www.sciencedirect.com/science/article/abs/pii/S2214367X26000621)
+
+
+**Ziqi Yang**, Tanhua Jin*, Cheng Cheng, Yuntao Guo, Xinghua Li, Frank Witlox
+
+- *Travel Behaviour and Society* 
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/tp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +66,7 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 
 **Ziqi Yang**, Yisong Zhu, Xinghua Li, Yuntao Guo*, Zhenghan Zhang, Lu Teng
 
-- *Transport policy* 
+- *Transport Policy* 
 </div>
 </div>
 
