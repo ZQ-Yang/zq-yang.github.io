@@ -21,6 +21,23 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 
 
 
+# 🎓 Education
+
+- **Tongji University**, Shanghai, China  
+  Ph.D. Candidate, Urban Transportation  
+  Supervisor: Prof. Xinghua Li  
+  *Sep. 2020 – Sep. 2026*
+
+- **Ghent University**, Ghent, Belgium  
+  Visiting Ph.D. Student, Transport Geography  
+  Supervisor: Prof. Frank Witlox  
+  *Sep. 2024 – Sep. 2025*
+
+- **Southwest Jiaotong University**, Chengdu, China  
+  B.Eng. in Traffic Engineering  
+  *Sep. 2016 – Jun. 2020*
+
+
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by *Travel Behaviour and Society*.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
