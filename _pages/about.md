@@ -61,7 +61,7 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/tp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding bike-sharing usage and built environment influences across age groups: a spatial machine learning approach](https://www.sciencedirect.com/science/article/pii/S0967070X26000892?via%3Dihub)
+[Understanding bike-sharing usage and built environment influences across age groups: A spatial machine learning approach](https://www.sciencedirect.com/science/article/pii/S0967070X26000892?via%3Dihub)
 
 
 **Ziqi Yang**, Yisong Zhu, Xinghua Li, Yuntao Guo*, Zhenghan Zhang, Lu Teng
@@ -73,7 +73,7 @@ I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https:/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/framework_TRA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comparing built environment effects on bike-sharing and electric bike-sharing usage: a spatiotemporal machine learning approach](https://www.sciencedirect.com/science/article/pii/S0965856425002708)
+[Comparing built environment effects on bike-sharing and electric bike-sharing usage: A spatiotemporal machine learning approach](https://www.sciencedirect.com/science/article/pii/S0965856425002708)
 
 
 Yisong Zhu, **Ziqi Yang***, Xi Feng, Cheng Cheng, Yuntao Guo, Qiumeng Li, Tianhao Wu, Xinghua Li, Frank Witlox
