@@ -60,6 +60,7 @@ redirect_from:
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by *Travel Behaviour and Society*.
+- *2026.04*: &nbsp;🎉🎉 My co-authored paper have been accepted for publication in *Sustainable Cities and Society*.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
 - *2025.12*: &nbsp;🎉🎉 Three of my co-authored papers have been accepted for publication in *Transportation Research Part D*, *Journal of Transport Geography*, and *European Transport Research Review*.
 - *2025.10*: &nbsp;🎉🎉 Five papers are accepted by *TRB2026*.
