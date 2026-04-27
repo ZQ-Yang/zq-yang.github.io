@@ -17,51 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. at the [Urban Mobility Institute (UMI)](https://umi.tongji.edu.cn/), Tongji University, Shanghai, China. I am a member of the [CTIT](https://ctit.tongji.edu.cn/) research group, completing my dissertation on **"Investigating Influencing Factors and Developing Incentive Strategies for the Integrated Usage of Electric Bike-sharing Services and Metro Systems"** under the guidance of Professor Xinghua Li. Prior to this, I received my bachelor's degree from Southwest Jiaotong University in 2020.
-
 
 
 # 🎓 Education
 
-<table style="width:100%; border-collapse:collapse;">
+<div style="margin-top: 0.8em;">
 
-<tr>
-<td style="width:75%; padding:10px 0;">
-<b>Tongji University</b>, Shanghai, China <br>
-Ph.D. Candidate, Urban Transportation <br>
-Supervisor: Prof. Xinghua Li
-</td>
-<td style="text-align:right; white-space:nowrap;">
-Sep. 2020 – Sep. 2026
-</td>
-</tr>
+<div style="margin-bottom: 1.1em;">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+    <div>
+      <strong>Tongji University</strong>, Shanghai, China<br>
+      Ph.D. Candidate, Urban Transportation<br>
+      <span style="color:#666;">Supervisor: Prof. Xinghua Li</span>
+    </div>
+    <div style="white-space:nowrap; color:#555;">Sep. 2020 – Sep. 2026</div>
+  </div>
+</div>
 
-<tr><td colspan="2"><hr></td></tr>
+<div style="margin-bottom: 1.1em;">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+    <div>
+      <strong>Ghent University</strong>, Ghent, Belgium<br>
+      Visiting Ph.D. Student, Transport Geography<br>
+      <span style="color:#666;">Supervisor: Prof. Frank Witlox</span>
+    </div>
+    <div style="white-space:nowrap; color:#555;">Sep. 2024 – Sep. 2025</div>
+  </div>
+</div>
 
-<tr>
-<td style="padding:10px 0;">
-<b>Ghent University</b>, Ghent, Belgium <br>
-Visiting Ph.D. Student, Transport Geography <br>
-Supervisor: Prof. Frank Witlox
-</td>
-<td style="text-align:right;">
-Sep. 2024 – Sep. 2025
-</td>
-</tr>
+<div style="margin-bottom: 0.5em;">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+    <div>
+      <strong>Southwest Jiaotong University</strong>, Chengdu, China<br>
+      B.Eng. in Traffic Engineering
+    </div>
+    <div style="white-space:nowrap; color:#555;">Sep. 2016 – Jun. 2020</div>
+  </div>
+</div>
 
-<tr><td colspan="2"><hr></td></tr>
-
-<tr>
-<td style="padding:10px 0;">
-<b>Southwest Jiaotong University</b>, Chengdu, China <br>
-B.Eng. in Traffic Engineering
-</td>
-<td style="text-align:right;">
-Sep. 2016 – Jun. 2020
-</td>
-</tr>
-
-</table>
+</div>
 
 
 # 🔥 News
