@@ -27,7 +27,7 @@ redirect_from:
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
     <div>
       <strong>Tongji University</strong>, Shanghai, China<br>
-      Ph.D. Candidate, Urban Transportation<br>
+      Ph.D. Candidate, Urban Mobility<br>
       <span style="color:#666;">Supervisor: Prof. Xinghua Li</span>
     </div>
     <div style="white-space:nowrap; color:#555;">Sep. 2020 – Sep. 2026</div>
@@ -60,7 +60,7 @@ redirect_from:
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by *Travel Behaviour and Society*.
-- *2026.04*: &nbsp;🎉🎉 My co-authored paper have been accepted for publication in *Sustainable Cities and Society*.
+- *2026.04*: &nbsp;🎉🎉 One co-authored paper have been accepted for publication in *Sustainable Cities and Society*.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
 - *2025.12*: &nbsp;🎉🎉 Three of my co-authored papers have been accepted for publication in *Transportation Research Part D*, *Journal of Transport Geography*, and *European Transport Research Review*.
 - *2025.10*: &nbsp;🎉🎉 Five papers are accepted by *TRB2026*.
@@ -181,10 +181,7 @@ Xinghua Li, **Ziqi Yang**, Xinwu Qian, Yuntao Guo*, Chao Yang
 - *2024.07* China Scholarship Council Scholarship
 - *2023.07* Green Seedling Fund 绿苗计划
 
-# 📖 Educations
-- *2024.09 – present*, Visiting Student, **Ghent University**, Ghent, Belgium
-- *2020.09 – present*, Ph.D. Candidate, **Tongji University**, Shanghai, China
-- *2016.09 – 2020.06*, Bachelor of Engineering, **Southwest Jiaotong University**, Chengdu, China
+
 
 
 # 💬 Invited Talks
