@@ -59,6 +59,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by *Journal of Transport Geography*.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by *Travel Behaviour and Society*.
 - *2026.04*: &nbsp;🎉🎉 One co-authored paper have been accepted for publication in *Sustainable Cities and Society*.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by *Transport Policy*.
