@@ -82,6 +82,20 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/JTG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond station: Rethinking built environment effects on metro-integrated electric bike-sharing from an origin–destination perspective](https://www.sciencedirect.com/science/article/abs/pii/S0966692326001948)
+
+
+**Ziqi Yang**, Yisong Zhu, Cheng Cheng*, Yuntao Guo, Xinghua Li, Jonas De Vos, Frank Witlox
+
+- *Journal of Transport Geography* 
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/TBS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
